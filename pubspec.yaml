@@ -1,0 +1,21 @@
+name: yandex_sign_v2
+description: Flutter plugin for yandex map sign and yandex navigator sign for IOS & Android.
+version: 1.0.0
+homepage: https://github.com/mehmetarsay/yandex_sign_v2
+
+environment:
+  sdk: ^3.0.0
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.mehmetarsay.yandex_sign
+        pluginClass: YandexSignPlugin
+      ios:
+        pluginClass: YandexSignPlugin

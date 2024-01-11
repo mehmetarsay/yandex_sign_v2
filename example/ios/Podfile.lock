@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - yandex_sign_v2 (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - yandex_sign_v2 (from `.symlinks/plugins/yandex_sign_v2/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  yandex_sign_v2:
+    :path: ".symlinks/plugins/yandex_sign_v2/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  yandex_sign_v2: 5f8269549c06de374a67d1680b8ed9bd3e283ce8
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.14.3
